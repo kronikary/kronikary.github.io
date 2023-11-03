@@ -11,7 +11,7 @@ For the purpose of displaying user location on the embedded device, I have desig
 **[Project won the second place in the national competition for the best article about electronics or programming.](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)**
 
 ## Bike computer
-The project is in commercialization. I have designed 
+The project is in commercialization. I have designed all parts of the project such as PCB, code for embedded platform, Android application in Kotlin, plastic case, manufacturing process (using CNC milling, injection molding)
 
 ## Multifuncitonal CNC machine
 I have designed a multifunctional CNC machine that allows to mill, 3D print and laser engrave.
