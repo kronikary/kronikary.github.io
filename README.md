@@ -19,7 +19,7 @@ I was presenting the project at ***[Milset Expo-Sciences International in Abu Za
 
 [![](https://img.youtube.com/vi/5xi4b5iAZ5M/0.jpg)](https://youtu.be/5xi4b5iAZ5M?si=Lk0WLO7qAdySWGmQ "Video presenting engraving/milling")
 
-<img src="20190917_125349_HDR.jpg" width="50%" height="50%" align="center"/>
+<img src="20190917_125349_HDR.jpg" width="50%" height="50%" align="right"/>
 
 Nowadays I modified the machine only for milling purposes and I am creating injection molding molds.
 
