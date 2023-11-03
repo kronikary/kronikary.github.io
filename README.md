@@ -1,3 +1,4 @@
+# Projects
 ## IO Science Club
 In 2018 I started IO Science Club at the University of Technology in Bialystok. Our goal is to gather people with the passion to earn knowledge, create DIY projects, and discover new things. 
 In our team, you can find CNC and 3D printer hobbyists, electronic designers, programmists, IoT passionates, drone and RC pilots, and many others. With our knowledge spread in many topics as well as extensive workshop with tools and CNC machines, we can create incredible projects.
