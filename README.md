@@ -31,6 +31,6 @@ Nowadays I modified the machine only for milling purposes and I am creating inje
 ## Programmable bionic hand
 Many solutions of bionic hands base on detecting muscle contractions to define the desired movement of the prosthetic limb. For the last 10 years, this method has not been developed further in prosthetic applications. The main problem with using EMG (electromyography) to control bionic hand is limiting the possibilities of grips to only a few of them. Unfortunately, there are various of situations when precise control of each hand joint movement is needed. Also, EMG works perfectly only in the laboratory and any sweat or higher humidity makes muscle contractions very hard to detect. This project presents a new possibility of bionic hand control. By creating a glove that is able to measure the bend angle of each joint placed in a human hand, amputees will find it a more suitable solution to control bionic limb, than current bionic designs. Eliminating the need for usage electromyography to control bionic limb reduces the purchase costs of full setup and allows to control of bionic hands for most of the amputees. The creation of a bionic hand with 16 DOF points combined with a control glove ensures the high position accuracy of each phalanges.
 
-<img src="img4.png" width="50%" height="50%" />
-<img src="img5.png" width="50%" height="50%" />
+<img src="img4.PNG" width="50%" height="50%" />
+<img src="img5.PNG" width="50%" height="50%" />
 
