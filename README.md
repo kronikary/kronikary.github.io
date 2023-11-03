@@ -12,14 +12,17 @@ For the purpose of displaying user location on the embedded device, I have desig
 **[Project won the second place in the national competition for the best article about electronics or programming.](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)**
 
 ## Bike computer
-The project is in commercialization. I have designed all parts of the project such as PCB, code for embedded platform, Android application in Kotlin, plastic case, manufacturing process (using CNC milling, injection molding)
+The project is in commercialization. I have designed all parts of the project such as PCB, C code for embedded platform, Android application in Kotlin, plastic case, manufacturing process (using CNC milling, injection molding and other processes)
 
 ## Multifuncitonal CNC machine
 I have designed a multifunctional CNC machine that allows to mill, 3D print and laser engrave.
-I was presenting the project at Milset Expo-Sciences International in Abu Zabi.
+I was presenting the project at ***Milset Expo-Sciences International in Abu Zabi.***
 
+<img src="20190917_125349_HDR.jpg" width="50%" height="50%" />
 
 Nowadays I modified the machine only for milling purposes and I am creating injection molding molds.
+<img src="inj2.jpeg" width="50%" height="50%" />
+<img src="inj3.jpeg" width="50%" height="50%" />
 
 
 ## Programmable bionic hand
