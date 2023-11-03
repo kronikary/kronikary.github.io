@@ -1,6 +1,6 @@
 # Projects
 ## IO Science Club
-<div align="justify"> 
+<p align="justify"> 
   In 2018 I started IO Science Club at the University of Technology in Bialystok. Our goal is to gather people with the passion to earn knowledge, create DIY projects, and discover new things. 
 In our team, you can find CNC and 3D printer hobbyists, electronic designers, programmists, IoT passionates, drone and RC pilots, and many others. With our knowledge spread in many topics as well as extensive workshop with tools and CNC machines, we can create incredible projects.
 Since the beginning, we have been in many competitions and started projects such as an electric skateboard, solar pannel charging station, electric bike, CNC machine, SCARA robot, and Assistive Device for People with Disabilities. Also, we took part in many university promotional events. 
@@ -53,4 +53,4 @@ Many solutions of bionic hands base on detecting muscle contractions to define t
 ***The project became a finalist in the competition Youth Science Meeting 2020.***
 
 The project was made from scratch, all parts of the project were designed and made by me.
- </div>
+ </p>
