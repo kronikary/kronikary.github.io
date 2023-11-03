@@ -6,8 +6,8 @@ In our team, you can find CNC and 3D printer hobbyists, electronic designers, pr
 Since the beginning, we have been in many competitions and started projects such as an electric skateboard, solar pannel charging station, electric bike, CNC machine, SCARA robot, and Assistive Device for People with Disabilities. Also, we took part in many university promotional events. 
 
 ## OpenStreetMaps coding format
-For the purpose of displaying user location on the embedded device, I have designed and implemented OpenStreetMaps coding format. I have created encoder as well as decoder in Python. 
-
+For the purpose of displaying user location on the embedded device, I have designed and implemented OpenStreetMaps coding format. I have created an encoder as well as a decoder in Python. As the result format was presented on the embedded device. 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/jqdv9XyNfTM?si=ll7I6oQxrR-uPcij "Video presenting processed format with displaying of current location")
 **[Project won the second place in the national competition for the best article about electronics or programming.](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)**
 
 ## Bike computer
