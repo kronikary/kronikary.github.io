@@ -7,7 +7,7 @@ Since the beginning, we have been in many competitions and started projects such
 For the purpose of displaying user location on the embedded device, I have designed and implemented OpenStreetMaps coding format. I have created an encoder as well as a decoder in Python. As the result format was presented on the embedded device. 
 [![osmImg](https://img.youtube.com/vi/jqdv9XyNfTM/0.jpg)](https://youtu.be/jqdv9XyNfTM?si=ll7I6oQxrR-uPcij "Video presenting processed format with displaying of current location")
 
-**[Project won the second place in the national competition for the best article about electronics or programming.](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)**
+***[Project won the second place in the national competition for the best article about electronics or programming.](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)***
 
 ## Bike computer
 The project is in commercialization. I have designed all parts of the project such as PCB, C code for an embedded platform, Android application in Kotlin, plastic case, manufacturing process (using CNC milling, injection molding, and other processes)
