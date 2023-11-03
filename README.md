@@ -8,8 +8,7 @@ Since the beginning, we have been in many competitions and started projects such
 ## OpenStreetMaps coding format
 For the purpose of displaying user location on the embedded device, I have designed and implemented OpenStreetMaps coding format. I have created encoder as well as decoder in Python. 
 
-**[Project won the second place in the national competition for the best article about electronics or programming.]([url](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/))**
-
+**[Project won the second place in the national competition for the best article about electronics or programming.](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)**
 
 ## Bike computer
 The project is in commercialization. I have designed 
