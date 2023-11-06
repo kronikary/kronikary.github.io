@@ -1,4 +1,14 @@
 # Projects
+## My scientific publications 
+
+- ***[OpenStreetMaps on embedded system](https://forbot.pl/forum/topic/19798-przetwarzanie-openstreetmap-na-systemie-wbudowanym-1-format-osm/)***
+- ***[Air quality monitoring device to optimize working and learning conditions](https://bazawiedzy.pb.edu.pl/info/article/BUTac1ddcca085a44b394ca9f48c2c9c2a7/Publikacja%2B%25E2%2580%2593%2BAir%2Bquality%2Bmonitoring%2Bdevice%2Bto%2Boptimize%2Bworking%2Band%2Blearning%2Bconditions%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka?r=publication&ps=20&tab=&lang=pl)***
+- ***[Analysis of the efficiency of a solar station for charging personal electric vehicles](https://bazawiedzy.pb.edu.pl/info/article/BUT2355b0e8598c4df987e796a01ed47510/Publikacja%2B%25E2%2580%2593%2BAnalysis%2Bof%2Bthe%2Befficiency%2Bof%2Ba%2Bsolar%2Bstation%2Bfor%2Bcharging%2Bpersonal%2Belectric%2Bvehicles%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka?r=publication&ps=20&tab=&lang=pl)]***
+- ***[Numeryczna analiza wpływu konstrukcji budowlanej na wartości pola elektrycznego](https://bazawiedzy.pb.edu.pl/info/article/BUTe281a4003b7e4283b79bac42141964d1/Publikacja%2B%25E2%2580%2593%2BNumeryczna%2Banaliza%2Bwp%25C5%2582ywu%2Bkonstrukcji%2Bbudowlanej%2Bna%2Bwarto%25C5%259Bci%2Bpola%2Belektrycznego%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka?r=publication&ps=20&tab=&lang=pl)***
+- ***[Selection of ESP32 operating parameters in order to reach optimal energy efficiency during calculations ](https://bazawiedzy.pb.edu.pl/info/article/BUT223a71325b2646e1833aa3d0d8033e4e/Publikacja%2B%25E2%2580%2593%2BSelection%2Bof%2BESP32%2Boperating%2Bparameters%2Bin%2Border%2Bto%2Breach%2Boptimal%2Benergy%2Befficiency%2Bduring%2Bcalculations%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka?r=publication&ps=20&tab=&lang=pl)***
+- ***[Porównanie wydajności wysokopoziomowych języków programowania w systemach mikroprocesorowych](https://bazawiedzy.pb.edu.pl/info/article/BUT1a422186f2a6491cbea8b954de204b3a/Publikacja%2B%25E2%2580%2593%2BPor%25C3%25B3wnanie%2Bwydajno%25C5%259Bci%2Bwysokopoziomowych%2Bj%25C4%2599zyk%25C3%25B3w%2Bprogramowania%2Bw%2Bsystemach%2Bmikroprocesorowych%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka?r=publication&ps=20&tab=&lang=pl)***
+- ***[Comparison of high-level programming languages efficiency in embedded systems](https://bazawiedzy.pb.edu.pl/info/article/BUTd2ab7ae2ce054bec9e918f6ec372e046/Publikacja%2B%25E2%2580%2593%2BComparison%2Bof%2Bhigh-level%2Bprogramming%2Blanguages%2Befficiency%2Bin%2Bembedded%2Bsystems%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka?r=publication&ps=20&tab=&lang=pl)***
+
 
 ## IO Science Club
 <div align="justify">
