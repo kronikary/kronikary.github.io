@@ -71,6 +71,7 @@ Nowadays I modified the machine only for milling purposes and I am creating inje
 <p align="center">
   <img src="przyciski.jpeg" width="50%" height="50%"/>
   <img src="case1.jpeg" width="50%" height="50%"/>
+  <img src="forma.jpeg" width="50%" height="50%"/>
 </p>
 
 
@@ -95,4 +96,6 @@ All the magic happens in my workshop.
   
 <p align="center">
   <img src="wrk.jpeg" width="50%" height="50%"/>
+  <img src="warsztat.jpeg" width="50%" height="50%"/>
+
 </p>
