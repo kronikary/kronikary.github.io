@@ -64,13 +64,11 @@ I was presenting the project at </div>
 
 <p align="center">
   <img src="20190917_125349_HDR.jpg" width="50%" height="50%"/>
-  <img src="cnc.jpg" width="50%" height="50%"/>
+  <img src="cnc.jpeg" width="50%" height="50%"/>
 </p>
 
 Nowadays I modified the machine only for milling purposes and I am creating injection molding molds.
 <p align="center">
-  <img src="inj2.jpeg" width="50%" height="50%"/>
-  <img src="inj3.jpeg" width="50%" height="50%"/>
   <img src="przyciski.jpeg" width="50%" height="50%"/>
   <img src="case1.jpeg" width="50%" height="50%"/>
 </p>
