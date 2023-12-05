@@ -33,8 +33,19 @@ For the purpose of displaying user location on the embedded device, I have desig
 
 ## Bike computer
 <div align="justify">
-The project is in commercialization. I have designed all parts of the project such as PCB, C code for an embedded platform, Android application in Kotlin, plastic case, manufacturing process (using CNC milling, injection molding, and other processes).
+The project is in commercialization. I have designed all parts of the project such as PCB, C code for an embedded platform, Android application in Kotlin, plastic case, and manufacturing process (using CNC milling, injection molding, and other processes).
 </div>
+
+<p align="center">
+  <img src="dev1.jpeg" width="50%" height="50%"/>
+  <img src="dev2.jpeg" width="50%" height="50%"/>
+</p>
+<div align="justify">
+To simplify the manufacturing process and remain independent from outsourcing I created an injection molding machine to manufacture plastic casing.
+</div>
+<p align="center">
+  <img src="wtrysk.jpeg" width="50%" height="50%"/>
+</p>
 
 ## Multifuncitonal CNC machine
 
@@ -53,12 +64,15 @@ I was presenting the project at </div>
 
 <p align="center">
   <img src="20190917_125349_HDR.jpg" width="50%" height="50%"/>
+  <img src="cnc.jpg" width="50%" height="50%"/>
 </p>
 
 Nowadays I modified the machine only for milling purposes and I am creating injection molding molds.
 <p align="center">
   <img src="inj2.jpeg" width="50%" height="50%"/>
   <img src="inj3.jpeg" width="50%" height="50%"/>
+  <img src="przyciski.jpeg" width="50%" height="50%"/>
+  <img src="case1.jpeg" width="50%" height="50%"/>
 </p>
 
 
@@ -77,3 +91,10 @@ Many solutions of bionic hands base on detecting muscle contractions to define t
 
 The project was made from scratch, all parts of the project were designed and made by me.
  
+## Programmable bionic hand
+<div align="justify">
+All the magic happens in my workshop.
+  
+<p align="center">
+  <img src="wrk.jpeg" width="50%" height="50%"/>
+</p>
