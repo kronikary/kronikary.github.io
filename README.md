@@ -38,7 +38,7 @@ The project is in commercialization. I have designed all parts of the project su
 
 <p align="center">
   <img src="dev1.jpeg" width="50%" height="50%"/>
-  <img src="dev2.jpeg" width="50%" height="50%"/>
+  <img src="dev3.jpeg" width="50%" height="50%"/>
 </p>
 <div align="justify">
 To simplify the manufacturing process and remain independent from outsourcing I created an injection molding machine to manufacture plastic casing.
@@ -90,9 +90,9 @@ Many solutions of bionic hands base on detecting muscle contractions to define t
 
 The project was made from scratch, all parts of the project were designed and made by me.
  
-## Programmable bionic hand
+## Workplace
 <div align="justify">
-All the magic happens in my workshop.
+All the magic happens in my workshops.
   
 <p align="center">
   <img src="wrk.jpeg" width="50%" height="50%"/>
