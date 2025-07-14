@@ -50,11 +50,29 @@ To simplify the manufacturing process and remain independent from outsourcing I 
 ## Android Kotlin APP - Connectivity with Bike Computer
 Application provides constant connectivity with bike computer. It allows to download data from the bike computer, share data, navigation routes/directions, BLE sensor connectivity, Third-party API such as Strava, recording and tracking sport activity.  
 Used technologies:
-- BLE connectivity
-- GPS
-- Strava, RideWithGPS API
-- OpenStreetMaps
-
+- Android (SDK 21+).
+- Kotlin (Coroutines, Flow, Extension Functions).
+- MVVM (Model-View-ViewModel).
+- LiveData / StateFlow.
+- Repository Pattern.
+- Room (SQLite) – lokalna baza danych.
+- OpenStreetMap (OSM) – mapy z obsługą offline.
+- GPX Parser – import i eksport tras.
+- Własna nawigacja krok po kroku.
+- Bluetooth Low Energy (BLE) – obsługa czujników: tętna, kadencji, prędkości, mocy.
+- GPS – śledzenie trasy na żywo i w tle.
+- Wi-Fi – synchronizacja i aktualizacje danych.
+- Strava API – autoryzacja (OAuth 2.0), eksport przejazdów.
+- Ride with GPS – import tras.
+- Google Play Services – lokalizacja, synchronizacja.
+- SharedPreferences – ustawienia użytkownika.
+- Pliki GPX / JSON – eksport i synchronizacja.
+- Jetpack Compose lub XML.
+- Material Design Components.
+- Tryb dzienny/nocny, duże fonty, kontrastowy interfejs.
+- Timber / Logcat – logowanie i debugowanie.
+- Obsługa stanów offline / brak GPS / błędy BLE.
+- Mocki BLE – testy bez fizycznych czujników.
 
 <p align="center">
   <img src="signal-2025-07-14-115255.png" width="25%" height="25%"/>
