@@ -55,16 +55,13 @@ Used technologies:
 - Strava, RideWithGPS API
 - OpenStreetMaps
 
-</div>
 
 <p align="center">
-  <img src="signal-2025-07-14-115255.png" width="50%" height="50%"/>
-  <img src="signal-2025-07-14-115255_002.png" width="50%" height="50%"/>
-    <img src="signal-2025-07-14-115255_003.png" width="50%" height="50%"/>
-  <img src="signal-2025-07-14-115255_004.png" width="50%" height="50%"/>
-
+  <img src="signal-2025-07-14-115255.png" width="25%" height="25%"/>
+  <img src="signal-2025-07-14-115255_002.png" width="25%" height="25%"/>
+    <img src="signal-2025-07-14-115255_003.png" width="25%" height="25%"/>
+  <img src="signal-2025-07-14-115255_004.png" width="25%" height="25%"/>
 </p>
-<div align="justify">
   
 ## Multifuncitonal CNC machine
 
