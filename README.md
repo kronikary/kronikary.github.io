@@ -33,7 +33,7 @@ For the purpose of displaying user location on the embedded device, I have desig
 
 ## Bike computer
 <div align="justify">
-The project is in commercialization. I have designed all parts of the project such as PCB, C code for an embedded platform, Android application in Kotlin, plastic case, and manufacturing process (using CNC milling, injection molding, and other processes).
+Designed parts of the project such as PCB, C code for an embedded platform, Android application in Kotlin, plastic case, and manufacturing process (using CNC milling, injection molding, and other processes).
 </div>
 
 <p align="center">
@@ -47,6 +47,25 @@ To simplify the manufacturing process and remain independent from outsourcing I 
   <img src="wtrysk.jpeg" width="50%" height="50%"/>
 </p>
 
+## Android Kotlin APP - Connectivity with Bike Computer
+Application provides constant connectivity with bike computer. It allows to download data from the bike computer, share data, navigation routes/directions, BLE sensor connectivity, Third-party API such as Strava, recording and tracking sport activity.  
+Used technologies:
+- BLE connectivity
+- GPS
+- Strava, RideWithGPS API
+- OpenStreetMaps
+
+</div>
+
+<p align="center">
+  <img src="signal-2025-07-14-115255.png" width="50%" height="50%"/>
+  <img src="signal-2025-07-14-115255_002.png" width="50%" height="50%"/>
+    <img src="signal-2025-07-14-115255_003.png" width="50%" height="50%"/>
+  <img src="signal-2025-07-14-115255_004.png" width="50%" height="50%"/>
+
+</p>
+<div align="justify">
+  
 ## Multifuncitonal CNC machine
 
 <div align="justify">
