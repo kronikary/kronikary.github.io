@@ -53,30 +53,29 @@ Used technologies:
 - Android (SDK 21+).
 - Kotlin (Coroutines, Flow, Extension Functions).
 - MVVM (Model-View-ViewModel).
-- LiveData / StateFlow.
-- Background servies - obsługa komputera rowerowego "w tle"
+- LiveData / StateFlow.Background services – handling a cycling computer in the background.
 - Repository Pattern.
-- Room (SQLite) – lokalna baza danych.
-- OpenStreetMap (OSM) – mapy z obsługą offline.
-- GPX Parser – import i eksport tras.
-- Własna nawigacja krok po kroku.
-- Bluetooth Low Energy (BLE) – obsługa czujników: tętna, kadencji, prędkości, mocy.
-- GPS – śledzenie trasy na żywo i w tle.
-- Wi-Fi – synchronizacja i aktualizacje danych.
-- Strava API – autoryzacja (OAuth 2.0), eksport przejazdów.
-- Ride with GPS – import tras.
-- Google Play Services – lokalizacja, synchronizacja.
-- SharedPreferences – ustawienia użytkownika.
-- Pliki GPX / JSON – eksport i synchronizacja.
-- Jetpack Compose lub XML.
+- Room (SQLite) – local database.
+- OpenStreetMap (OSM) – maps with offline support.
+- GPX Parser – route import and export.
+- Custom turn-by-turn navigation.
+- Bluetooth Low Energy (BLE) – support for sensors: heart rate, cadence, speed, power.
+- GPS – live and background route tracking.
+- Wi-Fi – data synchronization and updates.
+- Strava API – authorization (OAuth 2.0), ride export.
+- Ride with GPS – route import.
+- Google Play Services – location, synchronization.
+- SharedPreferences – user settings.
+- GPX / JSON files – export and synchronization.
+- Jetpack Compose or XML.
 - Material Design Components.
-- Tryb dzienny/nocny, duże fonty, kontrastowy interfejs.
-- Timber / Logcat – logowanie i debugowanie.
-- Obsługa stanów offline / brak GPS / błędy BLE.
-- Mocki BLE – testy bez fizycznych czujników.
+- Day/night mode, large fonts, high-contrast interface.
+- Timber / Logcat – logging and debugging.
+- Handling offline states / no GPS / BLE errors.
+- BLE mocks – testing without physical sensors.
 
 <p align="center">
-  <img src="signal-2025-07-14-115255.png" width="20%" height="20%"/>
+<img src="signal-2025-07-14-115255.png" width="20%" height="20%"/>
   <img src="signal-2025-07-14-115255_002.png" width="20%" height="20%"/>
     <img src="signal-2025-07-14-115255_003.png" width="20%" height="20%"/>
   <img src="signal-2025-07-14-115255_004.png" width="20%" height="20%"/>
