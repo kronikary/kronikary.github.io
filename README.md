@@ -56,7 +56,7 @@ Used technologies:
 - LiveData / StateFlow.Background services – handling a cycling computer in the background.
 - Repository Pattern.
 - Room (SQLite) – local database.
-- OpenStreetMap (OSM) – maps with offline support.
+- MapBox – maps with offline support.
 - GPX Parser – route import and export.
 - Custom turn-by-turn navigation.
 - Bluetooth Low Energy (BLE) – support for sensors: heart rate, cadence, speed, power.
