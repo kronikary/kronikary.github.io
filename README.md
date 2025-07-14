@@ -54,6 +54,7 @@ Used technologies:
 - Kotlin (Coroutines, Flow, Extension Functions).
 - MVVM (Model-View-ViewModel).
 - LiveData / StateFlow.
+- Background servies - obsługa komputera rowerowego "w tle"
 - Repository Pattern.
 - Room (SQLite) – lokalna baza danych.
 - OpenStreetMap (OSM) – mapy z obsługą offline.
@@ -75,10 +76,10 @@ Used technologies:
 - Mocki BLE – testy bez fizycznych czujników.
 
 <p align="center">
-  <img src="signal-2025-07-14-115255.png" width="25%" height="25%"/>
-  <img src="signal-2025-07-14-115255_002.png" width="25%" height="25%"/>
-    <img src="signal-2025-07-14-115255_003.png" width="25%" height="25%"/>
-  <img src="signal-2025-07-14-115255_004.png" width="25%" height="25%"/>
+  <img src="signal-2025-07-14-115255.png" width="20%" height="20%"/>
+  <img src="signal-2025-07-14-115255_002.png" width="20%" height="20%"/>
+    <img src="signal-2025-07-14-115255_003.png" width="20%" height="20%"/>
+  <img src="signal-2025-07-14-115255_004.png" width="20%" height="20%"/>
 </p>
   
 ## Multifuncitonal CNC machine
