@@ -130,6 +130,7 @@ For PCB manufacturing at workshop I designed and assembled pick and place machin
 <p align="center">
   <img src="signal-2025-09-02-124411_002.jpeg" width="50%" height="50%"/>
 </p>
+
 ## Workplace
 <div align="justify">
 All the magic happens in my workshops.
