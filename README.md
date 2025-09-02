@@ -123,7 +123,13 @@ Many solutions of bionic hands base on detecting muscle contractions to define t
 ***The project became a finalist in the competition Youth Science Meeting 2020.***
 
 The project was made from scratch, all parts of the project were designed and made by me.
+
  
+## PNP machine
+For PCB manufacturing at workshop I designed and assembled pick and place machine (PNP) for small product series.
+<p align="center">
+  <img src="signal-2025-09-02-124411_002.jpeg" width="50%" height="50%"/>
+</p>
 ## Workplace
 <div align="justify">
 All the magic happens in my workshops.
