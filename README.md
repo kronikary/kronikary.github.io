@@ -131,6 +131,12 @@ For PCB manufacturing at workshop I designed and assembled pick and place machin
   <img src="signal-2025-09-02-124411_002.jpeg" width="50%" height="50%"/>
 </p>
 
+## <a href="http://lightwear.pl/">LIGHTWEAR®</a>
+LIGHTWEAR is my own brand, created from the passion for design and technology. I specialize in innovative wearable pins that combine aesthetics with functionality. Each pin is crafted to illuminate with long-lasting light, offering up to 600 hours of glow, while remaining resistant to temporary water exposure. Thanks to a dedicated mounting system, the pins are easy to attach and remove, making them versatile for both personal and business use.
+<p align="center">
+  <img src="LogoFinishedColors.png" width="30%" height="30%"/>
+</p>
+
 ## Workplace
 <div align="justify">
 All the magic happens in my workshops.
